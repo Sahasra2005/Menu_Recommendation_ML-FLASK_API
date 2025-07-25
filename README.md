@@ -10,7 +10,11 @@ No item repetitions within a day
 
 Tracks each day with increasing combo diversity
 
-Technologies Used
+
+
+Technologies Used are:
+
+
 Python
 
 Pandas (for data processing)
