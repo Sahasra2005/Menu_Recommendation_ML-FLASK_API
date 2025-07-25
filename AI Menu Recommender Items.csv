@@ -1,0 +1,20 @@
+item_name,category,calories,taste_profile,popularity_score
+Paneer Butter Masala,main,450,spicy,0.9
+Chicken Biryani,main,600,spicy,0.95
+Vegetable Pulao,main,400,savory,0.7
+Rajma Chawal,main,500,savory,0.8
+Chole Bhature,main,650,spicy,0.85
+Masala Dosa,main,480,savory,0.88
+Grilled Sandwich,main,370,savory,0.6
+Garlic Naan,side,200,savory,0.9
+Mixed Veg Salad,side,150,sweet,0.75
+French Fries,side,350,savory,0.8
+Curd Rice,side,250,savory,0.7
+Papad,side,100,savory,0.65
+Paneer Tikka,side,300,spicy,0.85
+Masala Chaas,drink,100,spicy,0.8
+Sweet Lassi,drink,220,sweet,0.9
+Lemon Soda,drink,90,savory,0.7
+Cold Coffee,drink,180,sweet,0.75
+Coconut Water,drink,60,sweet,0.6
+Iced Tea,drink,120,sweet,0.78
